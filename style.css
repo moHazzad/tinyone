@@ -1,0 +1,210 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+/* header :start */
+.head{
+    padding: 20px 0px;
+    background-color: #fcdb00;
+}
+.lg-a{
+
+}
+.lg-img{
+
+}
+.menu{
+
+}
+.menu ul{
+
+}
+.menu li{
+    padding-left: 100px;
+    
+}
+.menu li a{
+    color: black;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.menu li:last-child a{
+    padding-right: 0 !important;
+}
+/* header :end */
+/* banner :start */
+.bann{
+    padding-bottom: 85px;
+    background-color: #fcdb00;
+}
+.c-inn{
+    margin-top: 45px;
+}
+.s-text{
+    margin-top: 50px;
+}
+.s-text h1{
+    font-size: 32px;
+    font-weight: 700;
+}
+.s-text h2{
+    margin: 20px 0;
+    font-weight: 600;
+    font-size: 20px;
+}
+.s-text p{}
+.carousel-indicators [data-bs-target] {
+
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    
+}
+
+element.style {
+}
+.carousel-indicators {
+    bottom: -70px;
+}
+
+.s-icon{}
+.s-icon ul{
+    font-size: 40px;
+}
+.list-inline-item:not(:last-child) {
+    margin-right: 1rem;
+}
+.s-icon ul li{}
+.s-icon ul li i{}
+.s-img{
+    text-align: center;
+}
+.s-img img{
+    /* text-align: center; */
+}
+
+/* banner :end */
+/* featured :start */
+.f-sec{
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+.t-feat{
+    /* padding: 0 55px;
+    text-align: center; */
+}
+.t-feat h1{
+    font-size: 32px;
+    font-weight: 700;
+}
+.t-feat p{}
+/* single-featured */
+.s-f{
+    margin-top: 70px;
+}
+
+.f-i{
+    text-align: center;
+    transition: .3s;
+}
+.f-i i{
+    font-size: 35px;
+    
+}
+.f-i i :hover{
+    transform: scale(.8);
+}
+.f-text{
+    
+}
+.f-text h2{
+    font-size: 22px;
+    font-weight: 600;
+}
+.f-text p{
+    margin: 10px 0;
+}
+/* single-end */
+/* featured :end */
+/* keep :start */
+.keep{
+    
+    background-color: black;
+}
+.t-featt{
+    padding: 50px 0 0;
+}
+.t-featt h1{
+    
+    color: #fcdb00;
+    font-size: 32px;
+    font-weight: 700; 
+}
+.t-featt p{
+    color: gray;
+}
+.c-form{
+    
+    margin: 40px 0 40px;
+}
+
+.p-h{
+ height: 45px;
+}
+.s-btn{
+
+}
+.s-button{
+    height: 45px;
+    font-weight: 500;
+    padding: 0 30px;
+    background-color: #fcdb00;
+}
+.so-icon{
+    padding-bottom: 70px;
+}
+.so-icon ul{}
+.so-icon ul li{}
+.so-icon ul li i{
+    font-size: 45px;
+    color:  #fcdb00;
+}
+
+
+
+/* keep :end */
+/* footer :start */
+.f-tt{
+    padding-bottom: 50px;
+    background-color: black;
+}
+.addrs{
+    color: #ffffff;
+}
+.eli{}
+.eli ul{
+    text-align: center;    
+    
+}
+.eli ul li{
+    
+}
+.eli ul li a{
+    color: #ffffff;
+    text-decoration: none;
+    text-align: center;
+}
+.eli-2{
+
+}
+.eli-2 ul{}
+.eli-2 ul li{}
+.eli-2 ul li a{
+    margin-right: 0px;
+
+}
+.text-white{
+    text-decoration: none;
+}
+/* footer :end */

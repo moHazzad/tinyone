@@ -1,0 +1,4 @@
+header...............
+      
+       xxl/xl/lg        md          sm/col
+          22            22             
